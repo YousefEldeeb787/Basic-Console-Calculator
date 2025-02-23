@@ -1,14 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
 using System;
 
 class Program
