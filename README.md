@@ -1,4 +1,4 @@
-'''csharp
+```csharp
 using System;
 
 class Program
